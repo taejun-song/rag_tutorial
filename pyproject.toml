@@ -16,6 +16,7 @@ python-decouple = "^3.8"
 langchain-text-splitters = "^0.3.6"
 langchain-community = "^0.3.19"
 langchain-ollama = "^0.2.3"
+duckduckgo-search = "^2025.4.1"
 
 
 [build-system]
